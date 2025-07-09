@@ -1,4 +1,4 @@
-# Nmap Çıktısı –> Nmap XML  → HTML Raporu
+# Nmap Çıktısı –> Nmap XML  → HTML Raporu   - Eren Abdullah BEŞİK
 
 Bu proje, Nmap ile alınan port tarama sonuçlarını XML formatından HTML raporuna dönüştüren bir Python uygulamasıdır. HTML raporda IP, port, protokol, durum ve servis bilgileri tablo olarak sunulur.
 
