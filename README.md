@@ -24,3 +24,7 @@ python3 xml_parseTo_html.py
 ├── htmlrapor.html       # Oluşan HTML rapor (çıktı)
 ├── logo.png             # Raporun başında gösterilecek logo
 └── README.md            # Bu dosya
+
+
+HTML Rapor SS:
+![HTML Rapor Görüntüsü](screenshot.png)
