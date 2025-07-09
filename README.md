@@ -11,7 +11,7 @@ nmap -p- -T4 -oX scan.xml <hedef_ip>
 
 ## Böylece nmap çıktısı bulunan klasöre kaydedilir.
 
-### 2.Python Scripti çalıştır.
+### 2. Python Scripti çalıştır.
 
 python3 xml_parseTo_html.py
 
