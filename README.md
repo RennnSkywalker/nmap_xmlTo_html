@@ -27,4 +27,4 @@ python3 xml_parseTo_html.py
 
 
 HTML Rapor SS:
-![HTML Rapor Görüntüsü](screenshot.png)
+![HTML Rapor Görüntüsü](reportSS.png)
