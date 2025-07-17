@@ -19,11 +19,11 @@ python3 xml_parseTo_html.py
 ### 3. Oluşan .html dosyasını tarayıcıda aç.  
 
 
-├── xml_parseTo_html.py # XML'den HTML raporu oluşturan Python script  \
-├── scan.xml            # Nmap çıktısı (tarama sonucu)  \
-├── htmlrapor.html      # Oluşan HTML rapor (çıktı)  \
-├── logo.png            # Raporun başında gösterilecek logo  \
-└── README.md           # Bu dosya  
+├── xml_parseTo_html.py      # XML'den HTML raporu oluşturan Python script  \
+├── scan.xml                 # Nmap çıktısı (tarama sonucu)  \
+├── htmlrapor.html           # Oluşan HTML rapor (çıktı)  \
+├── logo.png                 # Raporun başında gösterilecek logo  \
+└── README.md                # Bu dosya  
 
 
 HTML Rapor SS:
