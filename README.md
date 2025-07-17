@@ -16,14 +16,14 @@ nmap -p- -T4 -oX scan.xml <hedef_ip>
 
 python3 xml_parseTo_html.py
 
-### 3. Oluşan .html dosyasını tarayıcıda aç. `boşluklu                                       bir bölüm`
+### 3. Oluşan .html dosyasını tarayıcıda aç. 
 
 
-├── xml_parseTo_html.py   &nbsp;# XML'den HTML raporu oluşturan Python script  \
-├── scan.xml              &nbsp;&nbsp;# Nmap çıktısı (tarama sonucu)  \
-├── htmlrapor.html        &nbsp;&nbsp;# Oluşan HTML rapor (çıktı)  \
-├── logo.png              &nbsp;&nbsp;# Raporun başında gösterilecek logo  \
-└── README.md             &nbsp;&nbsp;# Bu dosya  
+├── `xml_parseTo_html.py     # XML'den HTML raporu oluşturan Python script`  \
+├── `scan.xml                 # Nmap çıktısı (tarama sonucu)`  \
+├── `htmlrapor.html           # Oluşan HTML rapor (çıktı)`  \
+├── `logo.png                 # Raporun başında gösterilecek logo`  \
+└── `README.md                # Bu dosya`  
 
 
 HTML Rapor SS:
