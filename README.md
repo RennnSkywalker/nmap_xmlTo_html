@@ -16,7 +16,7 @@ nmap -p- -T4 -oX scan.xml <hedef_ip>
 
 python3 xml_parseTo_html.py
 
-### 3. Oluşan .html dosyasını tarayıcıda aç.  xx'                            ' deneme
+### 3. Oluşan .html dosyasını tarayıcıda aç. `boşluklu                                       bir bölüm`
 
 
 ├── xml_parseTo_html.py   &nbsp;# XML'den HTML raporu oluşturan Python script  \
